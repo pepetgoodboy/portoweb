@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portoweb/static/css/main.d92862b6.css",
+    "main.js": "/portoweb/static/js/main.43f767f5.js",
+    "static/js/787.de85463a.chunk.js": "/portoweb/static/js/787.de85463a.chunk.js",
+    "static/media/FotoProfil1.png": "/portoweb/static/media/FotoProfil1.1467528019a4d7d944ab.png",
+    "static/media/Blog4.png": "/portoweb/static/media/Blog4.62a9c884b1ee029fd84c.png",
+    "static/media/Blog3.png": "/portoweb/static/media/Blog3.1b7b92097ca1d1c981a8.png",
+    "static/media/WebPorto.png": "/portoweb/static/media/WebPorto.fe31c3f669bcf099788a.png",
+    "static/media/Blog1.png": "/portoweb/static/media/Blog1.e3717f27000427a2e8e6.png",
+    "static/media/LasleyVPN.png": "/portoweb/static/media/LasleyVPN.81337fe30dd896b09e70.png",
+    "static/media/PetDownloader.png": "/portoweb/static/media/PetDownloader.de7a77907404e2a9dd25.png",
+    "static/media/Mimnews.png": "/portoweb/static/media/Mimnews.b38e408183829f7eda04.png",
+    "static/media/Blog2.png": "/portoweb/static/media/Blog2.914c0cef55d9debeade8.png",
+    "index.html": "/portoweb/index.html",
+    "main.d92862b6.css.map": "/portoweb/static/css/main.d92862b6.css.map",
+    "main.43f767f5.js.map": "/portoweb/static/js/main.43f767f5.js.map",
+    "787.de85463a.chunk.js.map": "/portoweb/static/js/787.de85463a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92862b6.css",
+    "static/js/main.43f767f5.js"
+  ]
+}
